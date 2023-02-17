@@ -7,6 +7,6 @@ The data visualizations were done using the implementation of t-SNE, a dimension
 
 
 <p align="center">
-<img src="https://github.com/gipi333/Machine-learning---Unsupervised-Analysis-of-a-dataset-made-of-leaves-/blob/main/picture.jpg" >
+<img src="https://github.com/gipi333/Machine-learning---Unsupervised-Analysis-of-a-dataset-made-of-leaves-/blob/main/picture.jpg" height="500" >
 </p>
 
